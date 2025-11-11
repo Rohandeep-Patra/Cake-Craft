@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="cake-craft.client/cake-craft.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Cake-Craft.Server/Cake-Craft.Server.csproj" />
+</Solution>

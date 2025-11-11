@@ -1,0 +1,6 @@
+@Cake_Craft.Server_HostAddress = http://localhost:5071
+
+GET {{Cake_Craft.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
